@@ -1,0 +1,1 @@
+# lokalise-android-sdk
