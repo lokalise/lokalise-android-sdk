@@ -18,7 +18,7 @@ Include dependencies:
 
 ```groovy
 dependencies {
-    compile 'com.lokalise.android:ota-sdk:1.2.0'
+    compile 'com.lokalise.android:ota-sdk:1.+'
     compile 'com.google.code.gson:gson:2.8.0'
 }
 ```
