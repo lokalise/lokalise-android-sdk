@@ -24,3 +24,5 @@ dependencies {
 ```
 
 Read **[documentation page](https://lokalise.helpdocs.io/article/NAGqt96y1e-lokalise-android-sdk)** for detailed integration guide.
+
+For bug reporting please contact us via live support chat at **[lokalise.co](https://lokalise.co)**.
