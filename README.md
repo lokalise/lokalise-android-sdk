@@ -1,6 +1,6 @@
 # Lokalise Android SDK
 
-**[Lokalise](https://lokalise.co)** lets you manage keys and translations of your app, game or website – either on your own or with a team of collaborators. Built for developers, Lokalise offers neat features including inline suggestions, project chat, export webhooks and an API, so you can easily integrate with your projects workflow.
+**[Lokalise](https://lokalise.com)** lets you manage keys and translations of your app, game or website – either on your own or with a team of collaborators. Built for developers, Lokalise offers neat features including inline suggestions, project chat, export webhooks and an API, so you can easily integrate with your projects workflow.
 
 ### Dependency
 
@@ -23,6 +23,6 @@ dependencies {
 }
 ```
 
-Read **[documentation page](https://lokalise.helpdocs.io/article/NAGqt96y1e-lokalise-android-sdk)** for detailed integration guide.
+Read **[documentation page](https://docs.lokalise.com/en/articles/3487109-lokalise-android-sdk-2-0-beta)** for detailed integration guide.
 
-For bug reporting please contact us via live support chat at **[lokalise.co](https://lokalise.co)**.
+For bug reporting please contact us via live support chat at **[lokalise.com](https://lokalise.com)**.
